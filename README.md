@@ -13,53 +13,38 @@ Sweet-vcs is a version control system developed using JavaScript. It aims to pro
 To install Sweet-vcs, follow these steps:
 1. Clone the repository:
     ```
-    
     git clone https://github.com/therealharshit/Sweet-vcs.git
-    
     ```
 2. Navigate to the project directory:
     ```
-    
     cd Sweet-vcs
-    
     ```
 4. Install the necessary dependencies:
     ```
-    
     npm install
-    
     ```
 
 ## Usage
 To use Sweet-vcs, follow these steps:
 1. Initialize a new repository:
     ```
-    
     Sweet.mjs init
-    
     ```
 3. Add files to the repository:
     ```
-    
     Sweet.mjs add <file_name>
-    
     ```
 4. Commit changes:
    ```
     Sweet.mjs commit "Commit message"
-   
    ```
 5. Show changes:
     ```
-    
     Sweet.mjs show <commitHash>
-    
     ```
 6. Log data:
    ```
-   
    Sweet.mjs log
-
    ```
 
 
