@@ -1,0 +1,17 @@
+{
+  "name": "sweet-vcs",
+  "version": "1.0.0",
+  "description": "version control system",
+  "main": "Sweet.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Sweet.mjs"
+  },
+  "author": "Harshit Verma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "diff": "^7.0.0"
+  }
+}
