@@ -1,4 +1,4 @@
-# Sweet-vcs: a verison controll system(vcs)
+# Sweet-vcs: a verison control system(vcs)
 ## Description
 Sweet-vcs is a version control system developed using JavaScript. It aims to provide a simple and intuitive interface for managing project versions and collaborating with team members. The project is designed to be lightweight and easy to integrate into existing workflows.
 
